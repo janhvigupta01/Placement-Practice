@@ -4,3 +4,7 @@
 4. 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 5. Maximum Average Subarray
 6. Count Distinct Elements in Every Window
+
+
+variable size sliding window
+1. 209. Minimum Size Subarray Sum
